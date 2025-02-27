@@ -1,4 +1,4 @@
-User Management API (Express + TypeScript)
+User Management API (Express + TypeScript) 
 Overview
 The User Management API is a backend service built with Express and TypeScript, following Clean Architecture principles. It provides a secure and scalable foundation for managing users, supporting authentication and CRUD operations.
 
